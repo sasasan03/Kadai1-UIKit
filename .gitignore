@@ -1,0 +1,26 @@
+Kadai1-UIKitTests
+Kadai1-UIKitUITests
+
+# Xcode
+.DS_Store
+*.swp
+*~.nib
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xcworkspace
+xcuserdata
+
+# Swift Package Manager
+.build/
+
+# Carthage
+/Carthage/Build
+
+# CocoaPods
+/Pods
+*.xcworkspace
+
+# Generated files
+DerivedData/
